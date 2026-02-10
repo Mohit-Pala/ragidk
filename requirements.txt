@@ -2,3 +2,6 @@ torch
 transformers
 pymupdf
 accelerate
+sentence-transformers
+rank-bm25
+numpy
